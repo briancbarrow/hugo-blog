@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Brian Barrow Blog'
+# theme = 'hugo-tania'
+# theme = 'anubis'
+theme = 'ananke'
